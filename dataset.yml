@@ -1,0 +1,8 @@
+path: ../data  # dataset root dir
+train: ../train_data/images/train/
+val: ../train_data/images/val/
+
+
+
+nc: 2
+names: ['accept','reject'] 
